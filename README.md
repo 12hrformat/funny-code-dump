@@ -7,3 +7,4 @@ git clone https://github.com/12hrformat/funny-code-dump
 ```
 g++ -std=c++17 -O2 warcrime_raycaster.cpp -o warcrime_raycaster
 ```
+nvm it dosnt work
