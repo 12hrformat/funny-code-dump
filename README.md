@@ -3,7 +3,7 @@
 
 
 ```bash
-git clone https://github.com/12hrformat/funny-code-dump
+git clone https://github.com/12hrformat/coding-warcrimes
 ```
 #### compiling the warcrime_raycaster.cpp
 ```
